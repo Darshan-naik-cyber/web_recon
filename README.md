@@ -45,7 +45,7 @@ go install github.com/ffuf/ffuf@latest
 
 ---
 ## 🔧 Usage
-python3 web_recon.py
+python3 web_recon.py -d <domain_name>
 
 ---
 
