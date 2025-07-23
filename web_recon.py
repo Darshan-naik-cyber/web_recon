@@ -33,8 +33,8 @@ class WebSecurityRecon:
     def print_banner(self):
         banner = """
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║                           Web Security Recon Tool                           ║
-║                      Comprehensive Bug Hunting Suite                        ║
+║                           Web Security Recon Tool                            ║
+║                      from Darshan Naik aka darshahackz                       ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
         """
         print(banner)
