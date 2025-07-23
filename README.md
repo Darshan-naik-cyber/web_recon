@@ -25,8 +25,37 @@ web_recon/
 └── ...
 
 
-How to run the script 
+---
 
-$ python3 web_recon.py -d <sitename> 
+## 📦 Requirements
 
+### ✅ Python Modules
+Install via pip:
+
+pip install -r requirements.txt
+🛠️ External Tools (Must be pre-installed)
+ffuf — Fast web fuzzer.
+
+ping (usually pre-installed on Linux)
+
+Install ffuf on Kali:
+sudo apt install ffuf -y
+Or via Go:
+go install github.com/ffuf/ffuf@latest
+
+---
+## 🔧 Usage
+python3 web_recon.py
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License. Feel free to use and modify it.
+
+---
+
+## 👨‍💻 Author
+Developed by Darshan Naik aka darshanhackz
+Security Researcher.
 
